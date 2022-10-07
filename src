@@ -4,35 +4,25 @@
         ::-webkit-scrollbar {
           width: 10px;
         }
-        
         /* Track */
         ::-webkit-scrollbar-track {
-            
           background: #0a192f;
         }
-         
         /* Handle */
         ::-webkit-scrollbar-thumb {
             border-radius: 10px;
           background: #555;
         }
-        
         /* Handle on hover */
         ::-webkit-scrollbar-thumb:hover {
           background: rgb(72, 72, 72);
         }
-        
         </style>
-
-
         <body style="background-color:#0a192e">
           <div class='lineup'>
           <p style="color:rgb(133, 161, 231);margin-left: 15%;padding-top: 7.5%;font-family: monospace;font-size: 300%;">
               Text
           </p>
           </div>
-          
   </body>
-  
-
 </html>
